@@ -7,24 +7,25 @@
 
 ### 🛠 Tech Stacks
 
-- **SQL & Databases**
-  - ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-  - **Analytics DB** | ![Vertica](https://img.shields.io/badge/Vertica-0073C1?style=for-the-badge&logo=microfocus&logoColor=white)
+#### 🗄️ Databases & Data Engineering
+- **Service DB** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+- **Analytics DB** | ![Vertica](https://img.shields.io/badge/Vertica-0073C1?style=flat-square&logo=microfocus&logoColor=white)
+- **ETL & BI** | ![ETL](https://img.shields.io/badge/ETL-Pipeline-orange?style=flat-square) ![QlikSense](https://img.shields.io/badge/Qlik_Sense-059848?style=flat-square&logo=qlik&logoColor=white)
 
 - **Data Engineering (ETL & BI)**
   - **ETL Expertise** | 대용량 데이터 추출·변환·적재 파이프라인 설계 (BTLDI 등 솔루션 활용 경험)
   - **Visualization** | **Qlik Sense** 기반의 데이터 시각화 및 대시보드 구현
 
-- **Backend Development**
-  - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) **Flask**
-  - ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) **ts-fastify**
+#### 🌐 Backend Development
+- **Main** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+- **Sub** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+
 
 ---
 
 ### 💡 Key Competencies
 
 #### 🏗️ Data Pipeline & ETL
-- **이기종 데이터 통합:** 다양한 원천 시스템(RDBMS)의 데이터를 분석용 DB(Vertica)로 통합하는 ETL 프로세스를 설계했습니다.
 - **데이터 전처리 역량:** 로우 데이터를 비즈니스 로직에 맞게 가공하고 정제하여 데이터 활용도를 높인 경험이 있습니다.
 - **도구 적응력:** 특정 솔루션(BTLDI) 활용 경험을 바탕으로, 데이터 흐름의 원리를 이해하며 새로운 ETL 도구에도 빠르게 적응할 수 있습니다.
 
